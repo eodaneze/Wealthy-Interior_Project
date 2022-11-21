@@ -2128,3 +2128,10 @@ section {
 #footer .credits a:hover {
   color: white;
 }
+
+
+@media(max-width: 600px){
+    .logo{
+      font-size: 10px;
+    }
+}
