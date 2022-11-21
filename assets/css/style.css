@@ -2128,10 +2128,22 @@ section {
 #footer .credits a:hover {
   color: white;
 }
+li span{
+  color: #E1444D;
+}
 
 
 @media(max-width: 600px){
-    .logo{
-      font-size: 10px;
+    .logo a{
+      font-size: 20px;
+    }
+    .after-hero{
+      font-size: 20px !important;
+       line-height: 1.6rem !important;
+       border-bottom: 4px solid #E1444D;
+       width: 70%;
+       margin-bottom: 10px;
+       padding-bottom: 10px;
+
     }
 }
