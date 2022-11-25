@@ -2147,3 +2147,15 @@ li span{
 
     }
 }
+
+.hire button{
+  background-color: #e1444d;
+  color: white;
+  padding: 8px 20px;
+  border: none;
+  transition: .30s ease;
+}
+.hire button:hover{
+    background-color: black;
+
+}
